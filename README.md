@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Meu Nome é:Nicolas Gabriel Rocha Pereira
+- 🔭 Meu Nome é:Nicolas Gabriel
 - 🌱 Estudo No Emilio De Menezes
 - 👯 Trabalho Com Games
 - 🤔 Torço Pro Corinthians "segue o lider"
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Gosto De Jogar Futebal
 - ⚡ Consigo Colocar O Pé Atras Da Cabeça
 -->
+
+
